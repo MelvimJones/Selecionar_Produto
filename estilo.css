@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(2deg,black,blue);
+    width: 200px;
+    height: 100px;
+    margin: 100px auto;
+    text-align: center;
+}
+button{
+background-color: gray
+}
+.fundo{
+    border-radius: 5px;
+    background-image: linear-gradient(168deg,#d69191c7,#dfdfef);
+}
